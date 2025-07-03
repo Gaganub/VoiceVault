@@ -2,6 +2,10 @@
 
 A beautiful, production-ready application for capturing, organizing, and reliving your precious memories with AI-powered voice technology.
 
+![20250629_2140_Voice Vault Logo_remix_01jyy701evfxs803qw7km1xfzk](https://github.com/user-attachments/assets/f7095eb3-3eb8-417c-a04b-3127cc733b00)
+
+
+
 ## 🚀 Features
 
 - **Voice Recording & AI Transcription** - Record your thoughts and get instant AI transcription

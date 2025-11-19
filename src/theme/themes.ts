@@ -1,5 +1,7 @@
 import { Theme, ThemeName } from '../types';
 
+//Theme selections 
+
 export const themes: Record<ThemeName, Theme> = {
   'velvet-teal': {
     name: 'Velvet Teal',
